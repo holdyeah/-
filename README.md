@@ -1,8 +1,7 @@
 # python_weather
 个人毕业论文
-|---|---|----
-|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-|2|`![][foryou]`|![][foryou]
+
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 ## 题目 天气数据平台系统设计与实现(python)                       
 学    院：   港口管理学院      
