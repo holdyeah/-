@@ -12,15 +12,14 @@
 ## [Summary]
 In the era of big data, when faced with massive data, it is sometimes difficult for us to be at a loss. On the one hand, the data is complex and numerous. On the other hand, the human brain cannot quickly find core problems in mountainous data. Therefore, data visualization is needed. The visual effects of the data presented to the user in an intuitive, vivid and easy-to-understand manner can effectively improve the efficiency and effectiveness of data analysis. At a glance, the weather data can be more intuitive, accurate and rapid insight into the weather changes and impacts, reasonable interaction design, exquisite interface experience, can quickly know the weather, make travel plans in advance.
 ## [Key words]
-Weather;python;
+Weather;python3.6;mysql;
 ## 目 录
 * [1.系统概述](#系统概述)
 
-    * 1.1天气平台系统概述
-    * 1.2平台形状
-    * 1.3需求分析
-    * 1.4
-    
+    * 1.1系统平台概述
+    * 1.2平台形状
+    * 1.3需求分析
+    
 * [2.系统分析](#系统分析)
 
     * 2.1流程分析
