@@ -14,7 +14,7 @@ In the era of big data, when faced with massive data, it is sometimes difficult 
 ## [Key words]
 Weather;python3.6;mysql;
 ## 目 录
-* [2.系统概述](#系统概述)
+* [1.系统概述](#系统概述)
 
     * 1.1流程分析
     * 1.2数据
@@ -79,7 +79,7 @@ Weather;python3.6;mysql;
  
  * 2.3开发环境
  
- **pyhon3.6、pycham2017.2、mysql
+ **pyhon3.6、pycham2017.2、mysql、Ubuntu 14.04.5 LTS（Trusty Tahr）
  
 ### 系统设计
 
